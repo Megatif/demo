@@ -1,0 +1,9 @@
+2023-08-22T05:51:40+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php:14
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\module.php(10): include()
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2865): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2822): FLBuilder::render_module(Object(stdClass))
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column.php(3): FLBuilder::render_modules(Object(stdClass))
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2696): include('C:\\xampp2\\htdoc...')
+#5 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column-group.php(7): FLBuilder::render_column(Object(stdClass in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php on line 14
+

@@ -1,0 +1,192 @@
+2023-08-24T07:54:49+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php:14
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\module.php(10): include()
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2865): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2822): FLBuilder::render_module(Object(stdClass))
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column.php(3): FLBuilder::render_modules(Object(stdClass))
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2696): include('C:\\xampp2\\htdoc...')
+#5 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column-group.php(7): FLBuilder::render_column(Object(stdClass in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php on line 14
+
+2023-08-24T08:12:13+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php:14
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\module.php(10): include()
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2865): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2822): FLBuilder::render_module(Object(stdClass))
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column.php(3): FLBuilder::render_modules(Object(stdClass))
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2696): include('C:\\xampp2\\htdoc...')
+#5 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column-group.php(7): FLBuilder::render_column(Object(stdClass in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php on line 14
+
+2023-08-24T08:12:35+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php:14
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\module.php(10): include()
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2865): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2822): FLBuilder::render_module(Object(stdClass))
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column.php(3): FLBuilder::render_modules(Object(stdClass))
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2696): include('C:\\xampp2\\htdoc...')
+#5 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column-group.php(7): FLBuilder::render_column(Object(stdClass in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php on line 14
+
+2023-08-24T09:29:01+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php:14
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\module.php(10): include()
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2865): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2822): FLBuilder::render_module(Object(stdClass))
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column.php(3): FLBuilder::render_modules(Object(stdClass))
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder.php(2696): include('C:\\xampp2\\htdoc...')
+#5 C:\xampp2\htdocs\newswave\wp-content\plugins\beaver-builder-lite-version\includes\column-group.php(7): FLBuilder::render_column(Object(stdClass in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\fl-builder\modules\grid_2\includes\frontend.php on line 14
+
+2023-08-24T14:56:25+00:00 CRITICAL syntax error, unexpected 'endfor' (T_ENDFOR) in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php on line 547
+
+2023-08-24T14:56:30+00:00 CRITICAL syntax error, unexpected 'endfor' (T_ENDFOR) in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php on line 547
+
+2023-08-24T15:31:32+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:31:57+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:32:16+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:33:36+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:34:15+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:39:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:40:12+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:41:14+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:41:28+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T15:43:36+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T18:15:36+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T18:23:40+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T18:23:45+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T18:40:56+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1098): in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T18:41:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php(97): Elem in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T19:31:16+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php(441): Ele in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T19:32:14+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php(441): Ele in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T19:36:09+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php(441): Ele in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+
+2023-08-24T19:37:21+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Elementor\Controls_Stack::sanitize_settings() must be of the type array, null given, called in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 1084 and defined in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php:2389
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(1084): Elementor\Controls_Stack->sanitize_settings(NULL)
+#1 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php(2138): Elementor\Controls_Stack->get_data('settings')
+#2 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Controls_Stack->get_init_settings()
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#4 C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php(441): Ele in C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2389
+

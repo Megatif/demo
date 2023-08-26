@@ -1,0 +1,18 @@
+2023-08-25T08:51:52+00:00 CRITICAL Access level to Elementor_Slideshow::content_template() must be protected (as in class Elementor\Controls_Stack) or weaker in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\slideshow\slideshow.php on line 419
+
+2023-08-25T13:00:02+00:00 CRITICAL Uncaught Error: Class 'Elementor_Grid_3' not found in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\elementor_list_widgets.php:32
+Stack trace:
+#0 C:\xampp2\htdocs\newswave\wp-includes\class-wp-hook.php(310): register_list_widget(Object(Elementor\Widgets_Manager))
+#1 C:\xampp2\htdocs\newswave\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp2\htdocs\newswave\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\managers\widgets.php(138): do_action('elementor/widge...', Object(Elementor\Widgets_Manager))
+#4 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\managers\widgets.php(328): Elementor\Widgets_Manager->init_widgets()
+#5 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\elements\column.php(1071): Elementor\Widgets_Manager->get_widget_types('slideshow')
+#6 C:\xampp2\htdocs\newswave\wp-content\plugins\elementor\includes\base\element-base.php(1420): Elementor\Elemen in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\elementor_list_widgets.php on line 32
+
+2023-08-25T13:00:28+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets/grid_2/grid_3.php' (include_path='C:\xampp2\php\PEAR') in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\elementor_list_widgets.php on line 29
+
+2023-08-25T13:00:41+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets/grid_3/grid_2.php' (include_path='C:\xampp2\php\PEAR') in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\elementor_list_widgets.php on line 28
+
+2023-08-25T13:00:59+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp2\htdocs\newswave\wp-content\themes\newswave\widgets\grid_3\grid_3.php on line 203
+
